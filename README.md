@@ -93,7 +93,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MillenaFerreira/MillenaFerreira/output/snake.svg" alt="Snake animation" />
+
+  ![Snake animation](https://github.com/MillenaFerreira/MillenaFerreira/blob/output/github-contribution-grid-snake.svg)
+ 
 
 ###
 
